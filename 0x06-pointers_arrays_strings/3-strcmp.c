@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  *_strcmp - For comparing two strings
- *@s1: A pointer variable that point to a character variable that will be changed
+ *@s1: A pointer that point to a character variable that will be changed
  *
- *@s2: A pointer variable that point to another character variable that will also be changed
+ *@s2: A pointer that point to a character variable that will be changed
  *
  *Return: (*str_1 - *str_2);
  */
