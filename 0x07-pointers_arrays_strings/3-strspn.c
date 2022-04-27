@@ -25,7 +25,8 @@ unsigned int _strspn(char *s, char *accept)
 		b = 0;
 		while (str2[b] != '\0')
 		{
-			if (str2[b] == str1[a]) {
+			if (str2[b] == str1[a])
+			{
 				count++;
 				break;
 			}
