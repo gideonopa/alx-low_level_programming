@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 #include <stdarg.h>
 #include <stdlib.h>
-
+#include <stdio.h>
 
 /**
  * print_numbers - prints numbers,
@@ -26,6 +26,6 @@ for (x = 0; x < n; x++)
 
 va_end(list);
 
-putchar('\n');
+printf("\n");
 
 }
