@@ -5,7 +5,7 @@
  *
  * @argc: number of arguments passed in the terminal.
  * @argv: double pointer.
- * 
+ *
  * Return: the actual number of letters
  * it could read and print to stdout.
  */
